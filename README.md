@@ -5,7 +5,7 @@
 
 # 🌸 Hi there, I'm Sally (sallyn0225) 🌸
 
-「 愿所有的努力，都能换来温柔的回报 」
+「 玻璃晴朗，橘子辉煌 」
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Fullstack%20%2F%20AI-ff69b4?style=for-the-badge&logo=target" />
