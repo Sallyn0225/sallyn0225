@@ -45,8 +45,8 @@
 
 ### 📊 My GitHub Journey
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sallyn0225&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&icon_color=ff69b4" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sallyn0225&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sallyn0225&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&icon_color=ff69b4" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sallyn0225&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e" height="170" />
 </div>
 
 <div align="right">
