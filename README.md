@@ -8,7 +8,7 @@
 「 玻璃晴朗，橘子辉煌 」
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20%2F%20AI-ff69b4?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Focus-AI%20Driven%20Builder-ff69b4?style=for-the-badge&logo=target" />
   <img src="https://img.shields.io/badge/Anime-Lover-blueviolet?style=for-the-badge&logo=visual-studio-code" />
 </p>
 
@@ -17,28 +17,28 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Current Focus**: Building intelligent applications with **AI + Fullstack** technologies.
-- ⚡ **Tech Stack**:
-  - **Frontend**: React 19, TypeScript, Tailwind CSS, Framer Motion.
-  - **Backend**: Node.js, Drizzle ORM, SQLite/Neon.
-  - **AI**: Gemini Pro, OpenAI API, LLM-driven automation.
-- 🎨 **Interests**: Exploring the intersection of **Anime Culture** and **Artificial Intelligence**.
+- 🔭 **Current Focus**: **Human-AI Collaboration**. I build things by empowering myself with AI agents.
+- 🤖 **Workflow**: Deeply integrated with the **Sisyphus Agent Ecosystem** for autonomous development and maintenance.
+- 🎨 **Interests**: Exploring the intersection of **Anime Culture** (BanG Dream!, iDOLM@STER) and **Artificial Intelligence**.
 
 ---
 
-### 🚀 Featured Project
-> **[Gemini RSS Translator](https://github.com/Sallyn0225/gemini-rss-app)**  
+### 🚀 Featured Projects
+> **[Gemini RSS Translator](https://github.com/Sallyn0225/gemini-rss-app)**
 > *An intelligent RSS aggregator that uses Gemini AI to translate and summarize news, specifically optimized for multimedia and seiyuu fans.*
 
-- 🤖 **AI Powered**: Auto-translation & daily summaries using Gemini Pro.
-- 🛡️ **Privacy**: Zero-knowledge architecture (API keys stay in your browser).
-- 📺 **Media Ready**: Smart proxy switching for bypass network restrictions.
+> **[imas-lyrics-visualizer](https://github.com/Sallyn0225/imas-lyrics-visualizer)**
+> *A web-based lyrics visualizer that creates unique styles for every song, powered by AI agents and designed for aesthetic perfection.*
 
 ---
 
-### 🛠️ Toolbox
+### 🛠️ AI-Augmented Toolbox
+- **Models**: Claude 3.5/3.7, Gemini 2.0 Flash/Pro.
+- **Frameworks**: Astro, React 19, Tailwind CSS.
+- **Infrastructure**: Vercel, Cloudflare, Supabase.
+
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,docker,vite,vercel,github,figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,astro,cloudflare,vercel,github,figma" /></a>
 </p>
 
 ---
