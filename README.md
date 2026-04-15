@@ -17,9 +17,9 @@
 ---
 
 ### 💫 About Me
-- 🔭 **Current Focus**: **Human-AI Collaboration**. I build things by empowering myself with AI agents.
-- 🤖 **Workflow**: Deeply integrated with the **Sisyphus Agent Ecosystem** for autonomous development and maintenance.
-- 🎨 **Interests**: Exploring the intersection of **Anime Culture** (BanG Dream!, iDOLM@STER) and **Artificial Intelligence**.
+- 🔭 **Current Focus**: **Vibe Coding**. I build things by empowering myself with AI agents.
+- 🤖 **Workflow**: Using multiple AI agents that cross-collaborate to ensure code robustness and quality.
+- 🎨 **Interests**: BanG Dream!, iDOLM@STER, Vocaloid, travel, music.
 
 ---
 
@@ -27,18 +27,19 @@
 > **[Gemini RSS Translator](https://github.com/Sallyn0225/gemini-rss-app)**
 > *An intelligent RSS aggregator that uses Gemini AI to translate and summarize news, specifically optimized for multimedia and seiyuu fans.*
 
-> **[imas-lyrics-visualizer](https://github.com/Sallyn0225/imas-lyrics-visualizer)**
-> *A web-based lyrics visualizer that creates unique styles for every song, powered by AI agents and designed for aesthetic perfection.*
+> **[shiny-mbti](https://github.com/Sallyn0225/shiny-mbti)** | [Live Demo](https://283ti.genchi.top/)
+> *A personality quiz matching you to 28 IdolMaster Shiny Colors characters via 8-dimension profiling.*
 
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude 3.5/3.7, Gemini 2.0 Flash/Pro.
-- **Frameworks**: Astro, React 19, Tailwind CSS.
+- **Models**: Claude Opus 4.6 / Sonnet 4.6, GPT-5.4, Gemini 3.1 Pro / Flash.
+- **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
 <p align="left">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,astro,cloudflare,vercel,github,figma" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,astro,cloudflare,vercel,github,figma,python&perline=10" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=vite,supabase,nextjs,vue,docker,linux,git,html,css,js&perline=10" /></a>
 </p>
 
 ---
@@ -47,6 +48,18 @@
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sallyn0225&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&icon_color=ff69b4" height="170" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sallyn0225&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sallyn0225&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4" width="95%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sallyn0225&theme=rose_pine" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallyn0225&theme=rose_pine" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallyn0225&theme=rose_pine" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallyn0225&theme=rose_pine" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallyn0225&theme=rose_pine" height="170" />
 </div>
 
 <div align="right">
