@@ -30,10 +30,13 @@
 > **[shiny-mbti](https://github.com/Sallyn0225/shiny-mbti)** | [Live Demo](https://283ti.genchi.top/)
 > *A personality quiz matching you to 28 IdolMaster Shiny Colors characters via 8-dimension profiling.*
 
+> **[seatview](https://github.com/Sallyn0225/seatview)** | [Live Demo](https://seat.genchi.top/)
+> *A real seat-view photo atlas for Japanese concert venues, helping fans preview the actual stage sightline from any seat. Built with Astro + Cloudflare Workers/D1/R2.*
+
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude Opus 4.6 / Sonnet 4.6, GPT-5.4, Gemini 3.1 Pro / Flash.
+- **Models**: Claude Opus 4.8 / Sonnet 4.6, GPT-5.5 Pro / Instant, Gemini 3.5 Flash / 3.1 Pro.
 - **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
