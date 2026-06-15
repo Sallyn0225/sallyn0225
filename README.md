@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- 顶部动漫 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sally's%20World&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sallyn's%20World&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# 🌸 Hi there, I'm Sally (sallyn0225) 🌸
+# 🌸 Hi there, I'm Sallyn (sallyn0225) 🌸
 
 「 玻璃晴朗，橘子辉煌 」
 
