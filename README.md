@@ -36,7 +36,7 @@
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude Opus 4.8 / Sonnet 4.6, GPT-5.5 Pro / Instant, Gemini 3.5 Flash / 3.1 Pro.
+- **Models**: Claude Fable 5 / Sonnet 5, GPT-5.6 Sol / Terra, Grok 4.5.
 - **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
