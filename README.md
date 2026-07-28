@@ -33,6 +33,9 @@
 > **[seatview](https://github.com/Sallyn0225/seatview)** | [Live Demo](https://seat.genchi.top/)
 > *A real seat-view photo atlas for Japanese concert venues, helping fans preview the actual stage sightline from any seat. Built with Astro + Cloudflare Workers/D1/R2.*
 
+> **[elevenlabs-stt](https://github.com/Sallyn0225/elevenlabs-stt)**
+> *A CLI that wraps ElevenLabs' web speech-to-text into a single command, reusing your free account quota via the internal web API — with multi-account pooling, vocabulary boosting, and exports to SRT/VTT/TXT/JSON/HTML/PDF/DOCX.*
+
 ---
 
 ### 🛠️ AI-Augmented Toolbox
