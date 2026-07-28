@@ -54,15 +54,15 @@
 </div>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sallyn0225&hide_border=true&background=191724&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=9e9e9e&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sallyn0225&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4" width="95%" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sallyn0225&theme=rose_pine" width="95%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sallyn0225&theme=rose_pine" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallyn0225&theme=rose_pine" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallyn0225&theme=rose_pine" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sallyn0225&theme=rose_pine" height="170" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=sallyn0225&theme=radical&no-frame=true&margin-w=15&column=7" width="95%" />
 </div>
 
 <div align="right">
