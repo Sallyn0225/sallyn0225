@@ -39,7 +39,7 @@
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude Fable 5 / Sonnet 5, GPT-5.6 Sol / Terra, Grok 4.5.
+- **Models**: Claude Opus 5, GPT-5.6 Sol, GLM 5.3 / 5.3 Flash, DeepSeek V4 Flash.
 - **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
