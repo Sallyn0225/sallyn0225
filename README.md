@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- 顶部动漫 Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Sallyn's%20World&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+<!-- 顶部 Banner：固定粉→紫渐变 + 白字 + 副标题（原 color=auto 每次刷新随机换色，与整体主题不符） -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Sallyn's%20World&fontSize=70&fontAlignY=35&color=0:ff69b4,100:8a2be2&fontColor=ffffff&desc=%E7%8E%BB%E7%92%83%E6%99%B4%E6%9C%97%EF%BC%8C%E6%A9%98%E5%AD%90%E8%BE%89%E7%85%8C&descAlignY=55&descSize=22&animation=fadeIn" width="100%" />
 
 # 🌸 Hi there, I'm Sallyn (sallyn0225) 🌸
-
-「 玻璃晴朗，橘子辉煌 」
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%20Driven%20Builder-ff69b4?style=for-the-badge&logo=target" />
@@ -51,17 +49,21 @@
 ---
 
 ### 📊 My GitHub Journey
+<!-- github-readme-stats 官方实例和原用的 sigma-five 镜像均因 GitHub token 配额耗尽而下线，
+     现改用 github-profile-summary-cards 官方实例（长期维护中）。
+     若想彻底告别配额问题，可 fork anuraghazra/github-readme-stats 部署到自己的 Vercel，
+     并设置环境变量 PAT_1（GitHub Personal Access Token），然后把域名换回来即可。 -->
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sallyn0225&show_icons=true&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&icon_color=ff69b4" height="170" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sallyn0225&layout=compact&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallyn0225&theme=radical" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallyn0225&theme=radical" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=sallyn0225&hide_border=true&background=191724&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=9e9e9e&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e" />
+  <img src="https://streak-stats.demolab.com/?user=sallyn0225&hide_border=true&background=191724&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=9e9e9e&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sallyn0225&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4" width="95%" />
+  <img src="https://jeskei-readme-activity-graph.vercel.app/graph?username=sallyn0225&theme=rose_pine&hide_border=true&title_color=ff69b4&text_color=9e9e9e&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4" width="95%" />
 </div>
 
 <div align="center">
@@ -71,3 +73,6 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=sallyn0225&color=ff69b4&style=flat-square&label=VISITORS" alt="visitors" />
 </div>
+
+<!-- 底部 Banner：与头图同款渐变（反向），首尾呼应 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontAlignY=60&color=0:8a2be2,100:ff69b4&fontColor=ffffff&animation=fadeIn" width="100%" />
