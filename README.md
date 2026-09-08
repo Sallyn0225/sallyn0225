@@ -25,6 +25,9 @@
 > **[Gemini RSS Translator](https://github.com/Sallyn0225/gemini-rss-app)**
 > *An intelligent RSS aggregator that uses Gemini AI to translate and summarize news, specifically optimized for multimedia and seiyuu fans.*
 
+> **[shinycolors-song-guess](https://github.com/Sallyn0225/shinycolors-song-guess)**
+> *A ShinyColors instrumental song-guessing game featuring solo quiz modes and 1v1 karuta-style music battles.*
+
 > **[shiny-mbti](https://github.com/Sallyn0225/shiny-mbti)** | [Live Demo](https://283ti.genchi.top/)
 > *A personality quiz matching you to 28 IdolMaster Shiny Colors characters via 8-dimension profiling.*
 
@@ -37,7 +40,7 @@
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude Opus 5, GPT-5.6 Sol, GLM 5.3 / 5.3 Flash, DeepSeek V4 Flash.
+- **Models**: Claude Opus 5, GPT 6 Astra, GLM 5.3 / 5.3 Flash, DeepSeek V4 Flash.
 - **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
