@@ -37,10 +37,13 @@
 > **[elevenlabs-stt](https://github.com/Sallyn0225/elevenlabs-stt)**
 > *A CLI that wraps ElevenLabs' web speech-to-text into a single command, reusing your free account quota via the internal web API — with multi-account pooling, vocabulary boosting, and exports to SRT/VTT/TXT/JSON/HTML/PDF/DOCX.*
 
+> **[eidolon-sc](https://github.com/Sallyn0225/eidolon-sc)**
+> *AI companions of all 28 IdolMaster Shiny Colors idols you can text or call in real time — they reply in Japanese voice with Chinese subtitles, recall their in-game stories, and share memories with each other. Built with FastAPI + Pipecat (WebRTC) + Next.js, one-command Docker Compose deploy.*
+
 ---
 
 ### 🛠️ AI-Augmented Toolbox
-- **Models**: Claude Opus 5, GPT 6 Astra, GLM 5.3 / 5.3 Flash, DeepSeek V4 Flash.
+- **Models**: Claude Opus 5.5, GPT 6 Astra, GLM 5.3 / 5.3 Flash, DeepSeek V4.1 Flash.
 - **Frameworks**: Astro, React, Next.js, Tailwind CSS.
 - **Infrastructure**: Vercel, Cloudflare, Supabase.
 
