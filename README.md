@@ -22,6 +22,9 @@
 ---
 
 ### 🚀 Featured Projects
+> **[eidolon-sc](https://github.com/Sallyn0225/eidolon-sc)**
+> *AI companions of all 28 IdolMaster Shiny Colors idols you can text or call in real time — they reply in Japanese voice with Chinese subtitles, recall their in-game stories, and share memories with each other. Built with FastAPI + Pipecat (WebRTC) + Next.js, one-command Docker Compose deploy.*
+
 > **[Gemini RSS Translator](https://github.com/Sallyn0225/gemini-rss-app)**
 > *An intelligent RSS aggregator that uses Gemini AI to translate and summarize news, specifically optimized for multimedia and seiyuu fans.*
 
@@ -36,9 +39,6 @@
 
 > **[elevenlabs-stt](https://github.com/Sallyn0225/elevenlabs-stt)**
 > *A CLI that wraps ElevenLabs' web speech-to-text into a single command, reusing your free account quota via the internal web API — with multi-account pooling, vocabulary boosting, and exports to SRT/VTT/TXT/JSON/HTML/PDF/DOCX.*
-
-> **[eidolon-sc](https://github.com/Sallyn0225/eidolon-sc)**
-> *AI companions of all 28 IdolMaster Shiny Colors idols you can text or call in real time — they reply in Japanese voice with Chinese subtitles, recall their in-game stories, and share memories with each other. Built with FastAPI + Pipecat (WebRTC) + Next.js, one-command Docker Compose deploy.*
 
 ---
 
