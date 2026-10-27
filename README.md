@@ -63,6 +63,15 @@
 </div>
 
 <div align="center">
+  <a href="https://ghfind.com/u/sallyn0225?ref=badge">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/sallyn0225?theme=dark&lang=zh" />
+      <img src="https://ghfind.com/api/card/mini/sallyn0225?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    </picture>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=sallyn0225&hide_border=true&background=191724&ring=ff69b4&fire=ff69b4&currStreakNum=ff69b4&sideNums=9e9e9e&currStreakLabel=9e9e9e&sideLabels=9e9e9e&dates=9e9e9e" />
 </div>
 
