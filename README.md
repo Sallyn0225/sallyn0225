@@ -55,13 +55,11 @@
 ---
 
 ### 📊 My GitHub Journey
-<!-- github-readme-stats 官方实例和原用的 sigma-five 镜像均因 GitHub token 配额耗尽而下线，
-     现改用 github-profile-summary-cards 官方实例（长期维护中）。
-     若想彻底告别配额问题，可 fork anuraghazra/github-readme-stats 部署到自己的 Vercel，
-     并设置环境变量 PAT_1（GitHub Personal Access Token），然后把域名换回来即可。 -->
+<!-- summary-cards 由 .github/workflows/profile-summary-cards.yml 每日生成到仓库内，不依赖在线实例；
+     trophy 使用自己 fork 部署在 Vercel 的实例（GITHUB_TOKEN 配额独享）。 -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sallyn0225&theme=radical" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sallyn0225&theme=radical" height="180" />
+  <img src="./profile-summary-card-output/radical/3-stats.svg" height="180" />
+  <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" height="180" />
 </div>
 
 <div align="center">
@@ -73,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=sallyn0225&theme=radical&no-frame=true&margin-w=15&column=7" width="95%" />
+  <img src="https://github-trophies.vercel.app/?username=sallyn0225&theme=radical&no-frame=true&margin-w=15&column=7" width="95%" />
 </div>
 
 <div align="right">
