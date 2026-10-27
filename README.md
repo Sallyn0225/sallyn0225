@@ -71,7 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy-xi-coral.vercel.app/?username=sallyn0225&theme=radical&no-frame=true&margin-w=15&column=7" width="95%" />
+  <img src="https://sallyn-trophy.vercel.app/?username=sallyn0225&theme=radical&no-frame=true&margin-w=15&column=7" width="95%" />
 </div>
 
 <div align="right">
